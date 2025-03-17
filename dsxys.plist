@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/anjiuzhe/apk_upload/raw/master/ESign.ipa</string>
+					<string>https://raw.githubusercontent.com/anjiuzhe/minitouch/refs/heads/master/ESign.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
