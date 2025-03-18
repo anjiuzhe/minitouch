@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>http://127.0.0.1:14359/ESign_5.0.2.ipa</string>
 				</dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>need-shine</key>
+          <integer>0</integer>
+          <key>url</key>
+          <string>http://127.0.0.1:14359/test.png</string>
+        </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
